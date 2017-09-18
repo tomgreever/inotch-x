@@ -1,6 +1,6 @@
 .inotch-x-wrapper {
   perspective: 50em;
-  z-index: 19000;
+  z-index: 999999;
   position: fixed;
   top: 0;
   left: 50%;
